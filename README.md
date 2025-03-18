@@ -19,3 +19,8 @@ Learning Goals
  3. Pass data between components using props.
 
 ![image](https://github.com/user-attachments/assets/1b06cdbb-744c-4fc8-b59a-b9c7358186d5)
+
+on submitting data is stared.
+
+![image](https://github.com/user-attachments/assets/3f9d07f4-8311-43bb-bc6a-6ec545fab44f)
+
