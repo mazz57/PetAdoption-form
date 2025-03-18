@@ -17,3 +17,5 @@ Learning Goals
  1. Build React components (Header, Form, Table).
  2. Use useState to manage form input and state.
  3. Pass data between components using props.
+
+![image](https://github.com/user-attachments/assets/1b06cdbb-744c-4fc8-b59a-b9c7358186d5)
